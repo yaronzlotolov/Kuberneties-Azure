@@ -339,5 +339,7 @@ ASALocalRun/
 # BeatPulse healthcheck temp database
 healthchecksdb
 
+
+.terraform/
 terraform.exe
 jq.exe
