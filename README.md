@@ -1,4 +1,4 @@
-# Deploy .NET Core Web application with MSSQL to Azure Kuberneties Cluster (AKS) Step by Step
+# Deploy .NET Core Web application with MSSQL to Azure Kubernetes Cluster (AKS) Step by Step
 The deployment requires .Net core 3.1, Entity Framework Core, Visual Studio Code and Git.
 
 The example contains kuberneties components like deployments,
